@@ -1,0 +1,15 @@
+{
+  "shard_id": "model_vision_transformer",
+  "version": "1.0.0",
+  "size_bytes": 1048740,
+  "checksum": "6e2cd5faaff14afbcf8f65ebd083134e6ac0603f82a79fde6a134414fc730865",
+  "model_type": "weights",
+  "created_at": "2025-08-10T00:26:32Z",
+  "updated_at": "2025-08-10T00:26:32Z",
+  "description": "AI model shard: vision_transformer.bin",
+  "tags": [
+    "ai-model",
+    "shard"
+  ],
+  "dependencies": []
+}
