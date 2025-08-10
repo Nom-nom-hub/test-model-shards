@@ -1,0 +1,15 @@
+{
+  "shard_id": "model_gpt_decoder",
+  "version": "1.0.0",
+  "size_bytes": 4194468,
+  "checksum": "394ce359337145188024443327710c13f5834bd673d53c9b5cd69d29826d33fb",
+  "model_type": "weights",
+  "created_at": "2025-08-10T00:26:24Z",
+  "updated_at": "2025-08-10T00:26:24Z",
+  "description": "AI model shard: gpt_decoder.bin",
+  "tags": [
+    "ai-model",
+    "shard"
+  ],
+  "dependencies": []
+}
