@@ -1,0 +1,15 @@
+{
+  "shard_id": "model_bert_encoder",
+  "version": "1.0.0",
+  "size_bytes": 2359460,
+  "checksum": "d648e3290c85b7e1d74e62e6f32e8dd925aafede3395ae0214e877acd50d1ceb",
+  "model_type": "weights",
+  "created_at": "2025-08-10T00:26:18Z",
+  "updated_at": "2025-08-10T00:26:18Z",
+  "description": "AI model shard: bert_encoder.bin",
+  "tags": [
+    "ai-model",
+    "shard"
+  ],
+  "dependencies": []
+}
